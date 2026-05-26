@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "trailer-contremaitres"
+  },
+  "targets": {
+    "trailer-contremaitres": {
+      "hosting": {
+        "styroplyo": [
+          "styroplyo"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
